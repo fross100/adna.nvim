@@ -2,33 +2,6 @@
 
 A dark, vibrant Neovim colorscheme derived from the [Adna theme](https://github.com/fross100/omarchy-adna-theme), featuring cool teal accents, bright pink foreground, and a deep charcoal background optimized for long coding sessions.
 
-## Color Palette
-
-| Color Role               | Hex Value  |
-|--------------------------|------------|
-| Accent                   | `#00BCD4`  |
-| Cursor                   | `#00E5FF`  |
-| Foreground               | `#FF69B4`  |
-| Background               | `#1A1620`  |
-| Selection Foreground     | `#FFB6C1`  |
-| Selection Background     | `#003333`  |
-| Black (color0)           | `#008B8B`  |
-| Red (color1)             | `#00BCD4`  |
-| Green (color2)           | `#00E5FF`  |
-| Yellow (color3)          | `#00E5FF`  |
-| Blue (color4)            | `#00E5FF`  |
-| Magenta (color5)         | `#00BCD4`  |
-| Cyan (color6)            | `#00E5FF`  |
-| White (color7)           | `#FFB6C1`  |
-| Bright Black (color8)    | `#008B8B`  |
-| Bright Red (color9)      | `#00E5FF`  |
-| Bright Green (color10)   | `#00E5FF`  |
-| Bright Yellow (color11)  | `#00E5FF`  |
-| Bright Blue (color12)    | `#00E5FF`  |
-| Bright Magenta (color13) | `#00BCD4`  |
-| Bright Cyan (color14)    | `#00E5FF`  |
-| Bright White (color15)   | `#FFC0CB`  |
-
 ## Features
 
 - Full Tree-sitter syntax highlighting support
