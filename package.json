@@ -1,0 +1,29 @@
+{
+  "name": "adna.nvim",
+  "version": "1.0.0",
+  "description": "A dark Neovim colorscheme featuring vibrant teal and pink accents, built from the Adna theme palette",
+  "main": "lua/adna/init.lua",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fross100/adna.nvim.git"
+  },
+  "keywords": [
+    "neovim",
+    "colorscheme",
+    "lua",
+    "dark-theme",
+    "adna"
+  ],
+  "author": "fross100",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fross100/adna.nvim/issues"
+  },
+  "homepage": "https://github.com/fross100/adna.nvim#readme",
+  "engines": {
+    "neovim": ">=0.8.0"
+  }
+}
