@@ -2,11 +2,6 @@
 
 A dark, vibrant Neovim colorscheme derived from the [Adna theme](https://github.com/fross100/omarchy-adna-theme), featuring cool teal accents, bright pink foreground, and a deep charcoal background optimized for long coding sessions.
 
-## Previews
-
-![Adna Theme Preview 1](preview1.png)
-![Adna Theme Preview 2](preview2.png)
-
 ## Color Palette
 
 | Color Role               | Hex Value  |
